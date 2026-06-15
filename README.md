@@ -1,1 +1,1 @@
-A TUI app for me, adapted to my current workflows are cinergia
+A TUI app for me, adapted to my current workflows are cinergia.
